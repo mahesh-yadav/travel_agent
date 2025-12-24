@@ -8,12 +8,6 @@ Plan your next adventure with AI Travel Planner! This application uses advanced 
 - **AI Planning Agent**: Crafts a structured and engaging day-by-day itinerary.
 - **Calendar Integration**: Download your personalized itinerary as an `.ics` file to easily add it to your calendar (Google Calendar, Apple Calendar, etc.).
 
-## Project Description
-
-AI Travel Planner leverages two specialized agents:
-- **Researcher**: A world-class travel researcher that finds the most relevant activities and local gems using web search.
-- **Planner**: A senior travel planner that synthesizes research results into a nuanced, balanced, and high-quality itinerary.
-
 ## Setup Instructions
 
 ### 1. Prerequisites
@@ -27,7 +21,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 ### 2. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mahesh-yadav/travel_agent.git
 cd travel_agent
 ```
 
